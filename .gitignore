@@ -1,0 +1,8 @@
+# Binaries
+bin/
+dist/
+colormark
+
+# OS junk
+.DS_Store
+Thumbs.db
