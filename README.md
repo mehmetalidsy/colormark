@@ -29,7 +29,7 @@ No more opening heavy editors or browsers just to read a `README.md` or document
 
 ### Demo
 
-<img src="https://raw.githubusercontent.com/mehmetalidsy/colormark/refs/heads/master/screen.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/mehmetalidsy/colormark/refs/heads/master/screen.gif" width="100%" alt="ColorMark Screenshot"/>
 
 ---
 
