@@ -4,7 +4,6 @@
   <h3>Fast, beautiful, and lightweight Markdown reader for the terminal.</h3>
   
   <p>
-    <img src="https://img.shields.io/github/license/mehmetalidsy/colormark?style=for-the-badge&color=blue" alt="License" />
     <img src="https://img.shields.io/github/stars/mehmetalidsy/colormark?style=for-the-badge&color=yellow" alt="Stars" />
     <img src="https://img.shields.io/github/forks/mehmetalidsy/colormark?style=for-the-badge&color=green" alt="Forks" />
     <img src="https://img.shields.io/badge/Made%20with-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
