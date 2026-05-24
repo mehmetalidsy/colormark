@@ -29,7 +29,7 @@ No more opening heavy editors or browsers just to read a `README.md` or document
 
 ### Demo
 
-<video src="screen.gif" width="100%">Your browser does not support the video tag.</video>
+<img src="https://raw.githubusercontent.com/mehmetalidsy/colormark/refs/heads/master/screen.gif" width="100%"/>
 
 ---
 
