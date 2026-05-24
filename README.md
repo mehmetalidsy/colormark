@@ -37,12 +37,7 @@ No more opening heavy editors or browsers just to read a `README.md` or document
 
 - **Fast Rendering** with Glamour + custom optimizations
 - **Vim-style Navigation** (`j/k`, `gg`, `G`, `Ctrl+D/U`)
-- **Table of Contents** sidebar (coming soon)
-- **Code block copying** with one key
-- **Search** inside document
-- **Multiple Themes** (dark/light + custom)
 - **Mouse Support**
-- **Configurable** via `~/.config/colormark/config.yaml`
 - Single static binary (no Node.js, Python etc.)
 
 ---
